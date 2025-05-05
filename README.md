@@ -15,6 +15,10 @@ A user-friendly dashboard for interacting with the Solana blockchain, featuring 
   - Request SOL tokens on devnet for testing  
   - Simple one-click interface  
 
+- **📤 Send SOL to other wallets**
+  - Transfer SOL to any vaild wallet address
+  - Useful for testing token transfers on devnet
+
 - **📝 Message Signing & Verification**  
   - Sign messages cryptographically  
   - Verify message authenticity  
